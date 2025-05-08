@@ -1,0 +1,1520 @@
+# nasdaq_gics_config.yaml
+#
+
+
+stocks:
+
+  ADBE:
+    company: "Adobe Inc."
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451030
+      name: "Application Software"
+    gics_sub_industry:
+      code: 45103010
+      name: "Application Software"
+
+  AMD:
+    company: "Advanced Micro Devices"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductors"
+    gics_sub_industry:
+      code: 45301020
+      name: "Semiconductors"
+
+  ABNB:
+    company: "Airbnb"
+    gics_sector:
+      code: 25
+      name: "Consumer Discretionary"
+    gics_industry_group:
+      code: 2530
+      name: "Consumer Services"
+    gics_industry:
+      code: 253010
+      name: "Hotels, Restaurants & Leisure"
+    gics_sub_industry:
+      code: 25301020
+      name: "Hotels, Resorts & Cruise Lines"
+
+  GOOGL:
+    company: "Alphabet Inc. (Class A)"
+    gics_sector:
+      code: 50
+      name: "Communication Services"
+    gics_industry_group:
+      code: 5020
+      name: "Media & Entertainment"
+    gics_industry:
+      code: 502010
+      name: "Interactive Media & Services"
+    gics_sub_industry:
+      code: 50201020
+      name: "Interactive Media & Services"
+
+  GOOG:
+    company: "Alphabet Inc. (Class C)"
+    gics_sector:
+      code: 50
+      name: "Communication Services"
+    gics_industry_group:
+      code: 5020
+      name: "Media & Entertainment"
+    gics_industry:
+      code: 502010
+      name: "Interactive Media & Services"
+    gics_sub_industry:
+      code: 50201020
+      name: "Interactive Media & Services"
+
+  AMZN:
+    company: "Amazon"
+    gics_sector:
+      code: 25
+      name: "Consumer Discretionary"
+    gics_industry_group:
+      code: 2550
+      name: "Retailing"
+    gics_industry:
+      code: 255040
+      name: "Broadline Retail"
+    gics_sub_industry:
+      code: 25504010
+      name: "Broadline Retail"
+
+  AEP:
+    company: "American Electric Power"
+    gics_sector:
+      code: 55
+      name: "Utilities"
+    gics_industry_group:
+      code: 5510
+      name: "Electric Utilities"
+    gics_industry:
+      code: 551010
+      name: "Electric Utilities"
+    gics_sub_industry:
+      code: 55101010
+      name: "Electric Utilities"
+
+  AMGN:
+    company: "Amgen"
+    gics_sector:
+      code: 35
+      name: "Health Care"
+    gics_industry_group:
+      code: 3520
+      name: "Pharmaceuticals, Biotechnology & Life Sciences"
+    gics_industry:
+      code: 352010
+      name: "Biotechnology"
+    gics_sub_industry:
+      code: 35201010
+      name: "Biotechnology"
+
+  ADI:
+    company: "Analog Devices"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductors"
+    gics_sub_industry:
+      code: 45301020
+      name: "Semiconductors"
+
+  ANSS:
+    company: "Ansys"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451030
+      name: "Application Software"
+    gics_sub_industry:
+      code: 45103010
+      name: "Application Software"
+
+  AAPL:
+    company: "Apple Inc."
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4520
+      name: "Technology Hardware & Equipment"
+    gics_industry:
+      code: 452020
+      name: "Technology Hardware, Storage & Peripherals"
+    gics_sub_industry:
+      code: 45202030
+      name: "Technology Hardware, Storage & Peripherals"
+
+  AMAT:
+    company: "Applied Materials"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductor Equipment"
+    gics_sub_industry:
+      code: 45301010
+      name: "Semiconductor Equipment"
+
+  APP:
+    company: "AppLovin"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451030
+      name: "Application Software"
+    gics_sub_industry:
+      code: 45103010
+      name: "Application Software"
+
+  ARM:
+    company: "Arm Holdings"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductors"
+    gics_sub_industry:
+      code: 45301020
+      name: "Semiconductors"
+
+  ASML:
+    company: "ASML Holding"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductor Equipment"
+    gics_sub_industry:
+      code: 45301010
+      name: "Semiconductor Equipment"
+
+  AZN:
+    company: "AstraZeneca"
+    gics_sector:
+      code: 35
+      name: "Health Care"
+    gics_industry_group:
+      code: 3520
+      name: "Pharmaceuticals, Biotechnology & Life Sciences"
+    gics_industry:
+      code: 352020
+      name: "Pharmaceuticals"
+    gics_sub_industry:
+      code: 35202010
+      name: "Pharmaceuticals"
+
+  TEAM:
+    company: "Atlassian"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451030
+      name: "Application Software"
+    gics_sub_industry:
+      code: 45103010
+      name: "Application Software"
+
+  ADSK:
+    company: "Autodesk"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451030
+      name: "Application Software"
+    gics_sub_industry:
+      code: 45103010
+      name: "Application Software"
+
+  ADP:
+    company: "Automatic Data Processing"
+    gics_sector:
+      code: 20
+      name: "Industrials"
+    gics_industry_group:
+      code: 2020
+      name: "Commercial & Professional Services"
+    gics_industry:
+      code: 202010
+      name: "Commercial & Professional Services"
+    gics_sub_industry:
+      code: 20201040
+      name: "Human Resource & Employment Services"
+
+  AXON:
+    company: "Axon Enterprise"
+    gics_sector:
+      code: 20
+      name: "Industrials"
+    gics_industry_group:
+      code: 2010
+      name: "Capital Goods"
+    gics_industry:
+      code: 201010
+      name: "Aerospace & Defense"
+    gics_sub_industry:
+      code: 20101010
+      name: "Aerospace & Defense"
+
+  BKR:
+    company: "Baker Hughes"
+    gics_sector:
+      code: 10
+      name: "Energy"
+    gics_industry_group:
+      code: 1010
+      name: "Energy Equipment & Services"
+    gics_industry:
+      code: 101010
+      name: "Oil & Gas Equipment & Services"
+    gics_sub_industry:
+      code: 10101020
+      name: "Oil & Gas Equipment & Services"
+
+  BIIB:
+    company: "Biogen"
+    gics_sector:
+      code: 35
+      name: "Health Care"
+    gics_industry_group:
+      code: 3520
+      name: "Pharmaceuticals, Biotechnology & Life Sciences"
+    gics_industry:
+      code: 352010
+      name: "Biotechnology"
+    gics_sub_industry:
+      code: 35201010
+      name: "Biotechnology"
+
+  BKNG:
+    company: "Booking Holdings"
+    gics_sector:
+      code: 25
+      name: "Consumer Discretionary"
+    gics_industry_group:
+      code: 2530
+      name: "Consumer Services"
+    gics_industry:
+      code: 253010
+      name: "Hotels, Restaurants & Leisure"
+    gics_sub_industry:
+      code: 25301020
+      name: "Hotels, Resorts & Cruise Lines"
+
+  AVGO:
+    company: "Broadcom"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductors"
+    gics_sub_industry:
+      code: 45301020
+      name: "Semiconductors"
+
+  CDNS:
+    company: "Cadence Design Systems"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451030
+      name: "Application Software"
+    gics_sub_industry:
+      code: 45103010
+      name: "Application Software"
+
+  CDW:
+    company: "CDW Corporation"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4520
+      name: "Technology Hardware & Equipment"
+    gics_industry:
+      code: 452030
+      name: "Technology Distributors"
+    gics_sub_industry:
+      code: 45203010
+      name: "Technology Distributors"
+
+  CHTR:
+    company: "Charter Communications"
+    gics_sector:
+      code: 50
+      name: "Communication Services"
+    gics_industry_group:
+      code: 5020
+      name: "Media & Entertainment"
+    gics_industry:
+      code: 502010
+      name: "Cable & Satellite"
+    gics_sub_industry:
+      code: 50201020
+      name: "Cable & Satellite"
+
+  CTAS:
+    company: "Cintas"
+    gics_sector:
+      code: 20
+      name: "Industrials"
+    gics_industry_group:
+      code: 2020
+      name: "Commercial & Professional Services"
+    gics_industry:
+      code: 202010
+      name: "Commercial & Professional Services"
+    gics_sub_industry:
+      code: 20201020
+      name: "Diversified Support Services"
+
+  CSCO:
+    company: "Cisco"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4520
+      name: "Technology Hardware & Equipment"
+    gics_industry:
+      code: 452010
+      name: "Communications Equipment"
+    gics_sub_industry:
+      code: 45201020
+      name: "Communications Equipment"
+
+  CCEP:
+    company: "Coca-Cola Europacific Partners"
+    gics_sector:
+      code: 30
+      name: "Consumer Staples"
+    gics_industry_group:
+      code: 3020
+      name: "Beverages"
+    gics_industry:
+      code: 302010
+      name: "Soft Drinks"
+    gics_sub_industry:
+      code: 30201030
+      name: "Soft Drinks & Non-alcoholic Beverages"
+
+  CTSH:
+    company: "Cognizant"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451020
+      name: "IT Consulting & Other Services"
+    gics_sub_industry:
+      code: 45102010
+      name: "IT Consulting & Other Services"
+
+  CMCSA:
+    company: "Comcast"
+    gics_sector:
+      code: 50
+      name: "Communication Services"
+    gics_industry_group:
+      code: 5020
+      name: "Media & Entertainment"
+    gics_industry:
+      code: 502010
+      name: "Cable & Satellite"
+    gics_sub_industry:
+      code: 50201020
+      name: "Cable & Satellite"
+
+  CEG:
+    company: "Constellation Energy"
+    gics_sector:
+      code: 55
+      name: "Utilities"
+    gics_industry_group:
+      code: 5510
+      name: "Electric Utilities"
+    gics_industry:
+      code: 551010
+      name: "Electric Utilities"
+    gics_sub_industry:
+      code: 55101010
+      name: "Electric Utilities"
+
+  CPRT:
+    company: "Copart"
+    gics_sector:
+      code: 20
+      name: "Industrials"
+    gics_industry_group:
+      code: 2020
+      name: "Commercial & Professional Services"
+    gics_industry:
+      code: 202010
+      name: "Commercial & Professional Services"
+    gics_sub_industry:
+      code: 20201020
+      name: "Diversified Support Services"
+
+  CSGP:
+    company: "CoStar Group"
+    gics_sector:
+      code: 60
+      name: "Real Estate"
+    gics_industry_group:
+      code: 6010
+      name: "Real Estate"
+    gics_industry:
+      code: 601010
+      name: "Real Estate Services"
+    gics_sub_industry:
+      code: 60101010
+      name: "Real Estate Services"
+
+  COST:
+    company: "Costco"
+    gics_sector:
+      code: 30
+      name: "Consumer Staples"
+    gics_industry_group:
+      code: 3010
+      name: "Food & Staples Retailing"
+    gics_industry:
+      code: 301010
+      name: "Consumer Staples Retail"
+    gics_sub_industry:
+      code: 30101010
+      name: "Consumer Staples Merchandise Retail"
+
+  CRWD:
+    company: "CrowdStrike"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451020
+      name: "Systems Software"
+    gics_sub_industry:
+      code: 45102010
+      name: "Systems Software"
+
+  CSX:
+    company: "CSX Corporation"
+    gics_sector:
+      code: 20
+      name: "Industrials"
+    gics_industry_group:
+      code: 2030
+      name: "Transportation"
+    gics_industry:
+      code: 203040
+      name: "Rail Transportation"
+    gics_sub_industry:
+      code: 20304010
+      name: "Rail Transportation"
+
+  DDOG:
+    company: "Datadog"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451030
+      name: "Application Software"
+    gics_sub_industry:
+      code: 45103010
+      name: "Application Software"
+
+  DXCM:
+    company: "DexCom"
+    gics_sector:
+      code: 35
+      name: "Health Care"
+    gics_industry_group:
+      code: 3510
+      name: "Health Care Equipment & Services"
+    gics_industry:
+      code: 351010
+      name: "Health Care Equipment"
+    gics_sub_industry:
+      code: 35101010
+      name: "Health Care Equipment"
+
+  FANG:
+    company: "Diamondback Energy"
+    gics_sector:
+      code: 10
+      name: "Energy"
+    gics_industry_group:
+      code: 1010
+      name: "Energy"
+    gics_industry:
+      code: 101020
+      name: "Oil & Gas Exploration & Production"
+    gics_sub_industry:
+      code: 10102050
+      name: "Oil & Gas Exploration & Production"
+
+  DASH:
+    company: "DoorDash"
+    gics_sector:
+      code: 25
+      name: "Consumer Discretionary"
+    gics_industry_group:
+      code: 2530
+      name: "Consumer Services"
+    gics_industry:
+      code: 253020
+      name: "Specialized Consumer Services"
+    gics_sub_industry:
+      code: 25302020
+      name: "Specialized Consumer Services"
+
+  EA:
+    company: "Electronic Arts"
+    gics_sector:
+      code: 50
+      name: "Communication Services"
+    gics_industry_group:
+      code: 5020
+      name: "Media & Entertainment"
+    gics_industry:
+      code: 502030
+      name: "Interactive Home Entertainment"
+    gics_sub_industry:
+      code: 50203010
+      name: "Interactive Home Entertainment"
+
+  EXC:
+    company: "Exelon"
+    gics_sector:
+      code: 55
+      name: "Utilities"
+    gics_industry_group:
+      code: 5510
+      name: "Electric Utilities"
+    gics_industry:
+      code: 551010
+      name: "Electric Utilities"
+    gics_sub_industry:
+      code: 55101010
+      name: "Electric Utilities"
+
+  FAST:
+    company: "Fastenal"
+    gics_sector:
+      code: 20
+      name: "Industrials"
+    gics_industry_group:
+      code: 2010
+      name: "Capital Goods"
+    gics_industry:
+      code: 201070
+      name: "Trading Companies & Distributors"
+    gics_sub_industry:
+      code: 20107010
+      name: "Trading Companies & Distributors"
+
+  FTNT:
+    company: "Fortinet"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451020
+      name: "Systems Software"
+    gics_sub_industry:
+      code: 45102010
+      name: "Systems Software"
+
+  GEHC:
+    company: "GE HealthCare"
+    gics_sector:
+      code: 35
+      name: "Health Care"
+    gics_industry_group:
+      code: 3510
+      name: "Health Care Equipment & Services"
+    gics_industry:
+      code: 351010
+      name: "Health Care Equipment"
+    gics_sub_industry:
+      code: 35101010
+      name: "Health Care Equipment"
+
+  GILD:
+    company: "Gilead Sciences"
+    gics_sector:
+      code: 35
+      name: "Health Care"
+    gics_industry_group:
+      code: 3520
+      name: "Pharmaceuticals, Biotechnology & Life Sciences"
+    gics_industry:
+      code: 352010
+      name: "Biotechnology"
+    gics_sub_industry:
+      code: 35201010
+      name: "Biotechnology"
+
+  GFS:
+    company: "GlobalFoundries"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductors"
+    gics_sub_industry:
+      code: 45301020
+      name: "Semiconductors"
+
+  HON:
+    company: "Honeywell"
+    gics_sector:
+      code: 20
+      name: "Industrials"
+    gics_industry_group:
+      code: 2010
+      name: "Capital Goods"
+    gics_industry:
+      code: 201050
+      name: "Industrial Conglomerates"
+    gics_sub_industry:
+      code: 20105010
+      name: "Industrial Conglomerates"
+
+  IDXX:
+    company: "Idexx Laboratories"
+    gics_sector:
+      code: 35
+      name: "Health Care"
+    gics_industry_group:
+      code: 3510
+      name: "Health Care Equipment & Services"
+    gics_industry:
+      code: 351010
+      name: "Health Care Equipment"
+    gics_sub_industry:
+      code: 35101010
+      name: "Health Care Equipment"
+
+  INTC:
+    company: "Intel"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductors"
+    gics_sub_industry:
+      code: 45301020
+      name: "Semiconductors"
+
+  INTU:
+    company: "Intuit"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451030
+      name: "Application Software"
+    gics_sub_industry:
+      code: 45103010
+      name: "Application Software"
+
+  ISRG:
+    company: "Intuitive Surgical"
+    gics_sector:
+      code: 35
+      name: "Health Care"
+    gics_industry_group:
+      code: 3510
+      name: "Health Care Equipment & Services"
+    gics_industry:
+      code: 351010
+      name: "Health Care Equipment"
+    gics_sub_industry:
+      code: 35101010
+      name: "Health Care Equipment"
+
+  KDP:
+    company: "Keurig Dr Pepper"
+    gics_sector:
+      code: 30
+      name: "Consumer Staples"
+    gics_industry_group:
+      code: 3020
+      name: "Beverages"
+    gics_industry:
+      code: 302010
+      name: "Soft Drinks"
+    gics_sub_industry:
+      code: 30201030
+      name: "Soft Drinks & Non-alcoholic Beverages"
+
+  KLAC:
+    company: "KLA Corporation"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductor Equipment"
+    gics_sub_industry:
+      code: 45301010
+      name: "Semiconductor Equipment"
+
+  KHC:
+    company: "Kraft Heinz"
+    gics_sector:
+      code: 30
+      name: "Consumer Staples"
+    gics_industry_group:
+      code: 3020
+      name: "Food, Beverage & Tobacco"
+    gics_industry:
+      code: 302010
+      name: "Packaged Foods & Meats"
+    gics_sub_industry:
+      code: 30201030
+      name: "Packaged Foods & Meats"
+
+  LRCX:
+    company: "Lam Research"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductor Equipment"
+    gics_sub_industry:
+      code: 45301010
+      name: "Semiconductor Equipment"
+
+  LIN:
+    company: "Linde plc"
+    gics_sector:
+      code: 15
+      name: "Materials"
+    gics_industry_group:
+      code: 1510
+      name: "Materials"
+    gics_industry:
+      code: 151010
+      name: "Chemicals"
+    gics_sub_industry:
+      code: 15101050
+      name: "Industrial Gases"
+
+  LULU:
+    company: "Lululemon Athletica"
+    gics_sector:
+      code: 25
+      name: "Consumer Discretionary"
+    gics_industry_group:
+      code: 2520
+      name: "Consumer Durables & Apparel"
+    gics_industry:
+      code: 252030
+      name: "Apparel, Accessories & Luxury Goods"
+    gics_sub_industry:
+      code: 25203010
+      name: "Apparel, Accessories & Luxury Goods"
+
+  MAR:
+    company: "Marriott International"
+    gics_sector:
+      code: 25
+      name: "Consumer Discretionary"
+    gics_industry_group:
+      code: 2530
+      name: "Consumer Services"
+    gics_industry:
+      code: 253010
+      name: "Hotels, Restaurants & Leisure"
+    gics_sub_industry:
+      code: 25301020
+      name: "Hotels, Resorts & Cruise Lines"
+
+  MRVL:
+    company: "Marvell Technology"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductors"
+    gics_sub_industry:
+      code: 45301020
+      name: "Semiconductors"
+
+  MELI:
+    company: "MercadoLibre"
+    gics_sector:
+      code: 25
+      name: "Consumer Discretionary"
+    gics_industry_group:
+      code: 2550
+      name: "Retailing"
+    gics_industry:
+      code: 255040
+      name: "Broadline Retail"
+    gics_sub_industry:
+      code: 25504010
+      name: "Broadline Retail"
+
+  META:
+    company: "Meta Platforms"
+    gics_sector:
+      code: 50
+      name: "Communication Services"
+    gics_industry_group:
+      code: 5020
+      name: "Media & Entertainment"
+    gics_industry:
+      code: 502010
+      name: "Interactive Media & Services"
+    gics_sub_industry:
+      code: 50201020
+      name: "Interactive Media & Services"
+
+  MCHP:
+    company: "Microchip Technology"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductors"
+    gics_sub_industry:
+      code: 45301020
+      name: "Semiconductors"
+
+  MU:
+    company: "Micron Technology"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductors"
+    gics_sub_industry:
+      code: 45301020
+      name: "Semiconductors"
+
+  MSFT:
+    company: "Microsoft"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451020
+      name: "Systems Software"
+    gics_sub_industry:
+      code: 45102010
+      name: "Systems Software"
+
+  MSTR:
+    company: "MicroStrategy"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451030
+      name: "Application Software"
+    gics_sub_industry:
+      code: 45103010
+      name: "Application Software"
+
+  MDLZ:
+    company: "Mondelez International"
+    gics_sector:
+      code: 30
+      name: "Consumer Staples"
+    gics_industry_group:
+      code: 3020
+      name: "Beverages, Food & Tobacco?"
+    gics_industry:
+      code: 302010
+      name: "Packaged Foods & Meats"
+    gics_sub_industry:
+      code: 30201030
+      name: "Packaged Foods & Meats"
+
+  MDB:
+    company: "MongoDB Inc."
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451020
+      name: "Systems Software?"
+    gics_sub_industry:
+      code: 45102010
+      name: "Systems Software?"
+
+  MNST:
+    company: "Monster Beverage"
+    gics_sector:
+      code: 30
+      name: "Consumer Staples"
+    gics_industry_group:
+      code: 3020
+      name: "Beverages"
+    gics_industry:
+      code: 302010
+      name: "Soft Drinks"
+    gics_sub_industry:
+      code: 30201030
+      name: "Soft Drinks & Non-alcoholic Beverages"
+
+  NFLX:
+    company: "Netflix, Inc."
+    gics_sector:
+      code: 50
+      name: "Communication Services"
+    gics_industry_group:
+      code: 5020
+      name: "Media & Entertainment"
+    gics_industry:
+      code: 502020
+      name: "Movies & Entertainment"
+    gics_sub_industry:
+      code: 50202010
+      name: "Movies & Entertainment"
+
+  NVDA:
+    company: "Nvidia"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductors"
+    gics_sub_industry:
+      code: 45301020
+      name: "Semiconductors"
+
+  NXPI:
+    company: "NXP Semiconductors"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductors"
+    gics_sub_industry:
+      code: 45301020
+      name: "Semiconductors"
+
+  ORLY:
+    company: "O'Reilly Automotive"
+    gics_sector:
+      code: 25
+      name: "Consumer Discretionary"
+    gics_industry_group:
+      code: 2550
+      name: "Retailing"
+    gics_industry:
+      code: 255040
+      name: "Specialty Retail"
+    gics_sub_industry:
+      code: 25504050
+      name: "Automotive Retail"
+
+  ODFL:
+    company: "Old Dominion Freight Line"
+    gics_sector:
+      code: 20
+      name: "Industrials"
+    gics_industry_group:
+      code: 2030
+      name: "Transportation"
+    gics_industry:
+      code: 203040
+      name: "Ground Transportation?"
+    gics_sub_industry:
+      code: 20304020
+      name: "Cargo Ground Transportation?"
+
+  ON:
+    company: "Onsemi"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductors"
+    gics_sub_industry:
+      code: 45301020
+      name: "Semiconductors"
+
+  PCAR:
+    company: "Paccar"
+    gics_sector:
+      code: 20
+      name: "Industrials"
+    gics_industry_group:
+      code: 2010
+      name: "Capital Goods"
+    gics_industry:
+      code: 201060
+      name: "Machinery?"
+    gics_sub_industry:
+      code: 20106010
+      name: "Construction Machinery & Heavy T. Equipment?"
+
+  PLTR:
+    company: "Palantir Technologies"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451010
+      name: "Internet Services & Infrastructure"
+    gics_sub_industry:
+      code: 45101010
+      name: "Internet Services & Infrastructure"
+
+  PANW:
+    company: "Palo Alto Networks"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451020
+      name: "Systems Software"
+    gics_sub_industry:
+      code: 45102010
+      name: "Systems Software"
+
+  PAYX:
+    company: "Paychex"
+    gics_sector:
+      code: 20
+      name: "Industrials"
+    gics_industry_group:
+      code: 2020
+      name: "Commercial & Professional Services"
+    gics_industry:
+      code: 202010
+      name: "Commercial & Professional Services"
+    gics_sub_industry:
+      code: 20201040
+      name: "Human Resource & Employment Services"
+
+  PYPL:
+    company: "PayPal"
+    gics_sector:
+      code: 40
+      name: "Financials"
+    gics_industry_group:
+      code: 4020
+      name: "Diversified Financials?"
+    gics_industry:
+      code: 402010
+      name: "Transaction & Payment Processing Services"
+    gics_sub_industry:
+      code: 40201020
+      name: "Payment Processing"
+
+  PDD:
+    company: "PDD Holdings"
+    gics_sector:
+      code: 25
+      name: "Consumer Discretionary"
+    gics_industry_group:
+      code: 2550
+      name: "Retailing"
+    gics_industry:
+      code: 255040
+      name: "Broadline Retail"
+    gics_sub_industry:
+      code: 25504010
+      name: "Broadline Retail"
+
+  PEP:
+    company: "PepsiCo"
+    gics_sector:
+      code: 30
+      name: "Consumer Staples"
+    gics_industry_group:
+      code: 3020
+      name: "Beverages"
+    gics_industry:
+      code: 302010
+      name: "Soft Drinks"
+    gics_sub_industry:
+      code: 30201030
+      name: "Soft Drinks & Non-alcoholic Beverages"
+
+  QCOM:
+    company: "Qualcomm"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductors"
+    gics_sub_industry:
+      code: 45301020
+      name: "Semiconductors"
+
+  REGN:
+    company: "Regeneron Pharmaceuticals"
+    gics_sector:
+      code: 35
+      name: "Health Care"
+    gics_industry_group:
+      code: 3520
+      name: "Pharmaceuticals, Biotechnology & Life Sciences"
+    gics_industry:
+      code: 352010
+      name: "Biotechnology"
+    gics_sub_industry:
+      code: 35201010
+      name: "Biotechnology"
+
+  ROP:
+    company: "Roper Technologies"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4520
+      name: "Technology Hardware & Equipment?" # or 452030?
+    gics_industry:
+      code: 452030
+      name: "Electronic Equipment & Instruments?"
+    gics_sub_industry:
+      code: 45203010
+      name: "Electronic Equipment & Instruments?"
+
+  ROST:
+    company: "Ross Stores"
+    gics_sector:
+      code: 25
+      name: "Consumer Discretionary"
+    gics_industry_group:
+      code: 2550
+      name: "Retailing"
+    gics_industry:
+      code: 255040
+      name: "Specialty Retail or Apparel Retail"
+    gics_sub_industry:
+      code: 25504050
+      name: "Apparel Retail"
+
+  SBUX:
+    company: "Starbucks"
+    gics_sector:
+      code: 25
+      name: "Consumer Discretionary"
+    gics_industry_group:
+      code: 2530
+      name: "Consumer Services"
+    gics_industry:
+      code: 253010
+      name: "Hotels, Restaurants & Leisure"
+    gics_sub_industry:
+      code: 25301040
+      name: "Restaurants"
+
+  SNPS:
+    company: "Synopsys"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451030
+      name: "Application Software"
+    gics_sub_industry:
+      code: 45103010
+      name: "Application Software"
+
+  TMUS:
+    company: "T-Mobile US"
+    gics_sector:
+      code: 50
+      name: "Communication Services"
+    gics_industry_group:
+      code: 5010
+      name: "Telecommunication Services"
+    gics_industry:
+      code: 501020
+      name: "Wireless Telecommunication Services"
+    gics_sub_industry:
+      code: 50102010
+      name: "Wireless Telecommunication Services"
+
+  TTWO:
+    company: "Take-Two Interactive"
+    gics_sector:
+      code: 50
+      name: "Communication Services"
+    gics_industry_group:
+      code: 5020
+      name: "Media & Entertainment"
+    gics_industry:
+      code: 502030
+      name: "Interactive Home Entertainment"
+    gics_sub_industry:
+      code: 50203010
+      name: "Interactive Home Entertainment"
+
+  TSLA:
+    company: "Tesla, Inc."
+    gics_sector:
+      code: 25
+      name: "Consumer Discretionary"
+    gics_industry_group:
+      code: 2510
+      name: "Automobiles & Components"
+    gics_industry:
+      code: 251020
+      name: "Automobile Manufacturers"
+    gics_sub_industry:
+      code: 25102010
+      name: "Automobile Manufacturers"
+
+  TXN:
+    company: "Texas Instruments"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4530
+      name: "Semiconductors & Semiconductor Equipment"
+    gics_industry:
+      code: 453010
+      name: "Semiconductors"
+    gics_sub_industry:
+      code: 45301020
+      name: "Semiconductors"
+
+  TTD:
+    company: "Trade Desk (The)"
+    gics_sector:
+      code: 50
+      name: "Communication Services"
+    gics_industry_group:
+      code: 5020
+      name: "Media & Entertainment"
+    gics_industry:
+      code: 502010
+      name: "Advertising"
+    gics_sub_industry:
+      code: 50201030
+      name: "Advertising"
+
+  VRSK:
+    company: "Verisk Analytics"
+    gics_sector:
+      code: 20
+      name: "Industrials"
+    gics_industry_group:
+      code: 2020
+      name: "Commercial & Professional Services"
+    gics_industry:
+      code: 202010
+      name: "Commercial & Professional Services"
+    gics_sub_industry:
+      code: 20201050
+      name: "Research & Consulting Services"
+
+  VRTX:
+    company: "Vertex Pharmaceuticals"
+    gics_sector:
+      code: 35
+      name: "Health Care"
+    gics_industry_group:
+      code: 3520
+      name: "Pharmaceuticals, Biotechnology & Life Sciences"
+    gics_industry:
+      code: 352010
+      name: "Biotechnology"
+    gics_sub_industry:
+      code: 35201010
+      name: "Biotechnology"
+
+  WBD:
+    company: "Warner Bros. Discovery"
+    gics_sector:
+      code: 50
+      name: "Communication Services"
+    gics_industry_group:
+      code: 5020
+      name: "Media & Entertainment"
+    gics_industry:
+      code: 502010
+      name: "Broadcasting?"
+    gics_sub_industry:
+      code: 50201020
+      name: "Broadcasting?"
+
+  WDAY:
+    company: "Workday, Inc."
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451030
+      name: "Application Software"
+    gics_sub_industry:
+      code: 45103010
+      name: "Application Software"
+
+  XEL:
+    company: "Xcel Energy"
+    gics_sector:
+      code: 55
+      name: "Utilities"
+    gics_industry_group:
+      code: 5510
+      name: "Utilities"
+    gics_industry:
+      code: 551030
+      name: "Multi-Utilities"
+    gics_sub_industry:
+      code: 55103010
+      name: "Multi-Utilities"
+
+  ZS:
+    company: "Zscaler"
+    gics_sector:
+      code: 45
+      name: "Information Technology"
+    gics_industry_group:
+      code: 4510
+      name: "Software & Services"
+    gics_industry:
+      code: 451030
+      name: "Application Software"
+    gics_sub_industry:
+      code: 45103010
+      name: "Application Software"
