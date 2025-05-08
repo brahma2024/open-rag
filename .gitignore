@@ -7,16 +7,6 @@ env/
 
 # Ignore any data files
 data/raw*
-data/processed/*
-data/logs/*
-data/indicators/*
-data/cache_advanced_features/*
-db_management/*
-indicators/*
-ml_models/*
-orchestration/*
-transformations/*
-visualizations/*
 
 # Ignore any environment-specific files
 *.env
